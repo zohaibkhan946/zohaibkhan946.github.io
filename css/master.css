@@ -6,7 +6,9 @@
      color:white;
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
-
+img {
+    border:solid; border-color: burlywood; border-width: 2px;
+}
   a:hover {
     /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
